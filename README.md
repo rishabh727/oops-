@@ -49,11 +49,15 @@ Example: Dog, Cat, Cow can be Derived Class of Animal Base Class.
 
 ![image](https://github.com/rishabh727/oops-/assets/143151167/fe9c123d-6e96-4c73-8928-07f000f19573)
 
-**Dynamic Binding**  In dynamic binding, the code to be executed in response to the function call is decided at runtime. C++ has virtual functions to support this. Because dynamic binding is flexible, it avoids the drawbacks of static binding, which connected the function call and definition at build time.
+**Dynamic Binding-**  In dynamic binding, the code to be executed in response to the function call is decided at runtime. C++ has virtual functions to support this. Because dynamic binding is flexible, it avoids the drawbacks of static binding, which connected the function call and definition at build time.
 
 **Message Passing-**  Objects communicate with one another by sending and receiving information. A message for an object is a request for the execution of a procedure and therefore will invoke a function in the receiving object that generates the desired results. Message passing involves specifying the name of the object, the name of the function, and the information to be sent.
 
 **mathod overloding-** In other words, we can say that Method overloading is a concept of Java in which we can create multiple methods of the same name in the same class, and all methods work in different ways.
+If subclass (child class) has the same method as declared in the parent class, it is known as method overriding in Java.
+
+**method overridingIn-** other words, If a subclass provides the specific implementation of the method that has been declared by one of its parent class, it is known as method overriding.
+
 
     
 
